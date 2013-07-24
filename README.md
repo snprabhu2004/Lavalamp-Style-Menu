@@ -1,4 +1,4 @@
-lavalamp-style-Menu
+Lavalamp-Style-Menu
 ===================
 
-Lavalamp style Menu
+Lavalamp Style Menu
